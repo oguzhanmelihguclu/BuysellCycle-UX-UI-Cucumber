@@ -16,7 +16,7 @@ This project is designed to test the **responsive web UI** of the [BuySellCycle]
 | **Maven**                | Dependency and project build management                   |
 | **Chrome / Edge Drivers**| For cross-browser testing                                  |
 
-```
+
 
 ## 🖥️ **Tested Platform**
 
@@ -25,7 +25,7 @@ This project is designed to test the **responsive web UI** of the [BuySellCycle]
 - **Browsers Tested:** Chrome, Edge
 - **Test Type:** Responsive Web UI Automation
 
----
+
 
 ## 📁 **BuySellCycleTest Project Structure**
 
