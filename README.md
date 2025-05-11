@@ -16,7 +16,7 @@ This project is designed to test the **responsive web UI** of the [BuySellCycle]
 | **Maven**                | Dependency and project build management                   |
 | **Chrome / Edge Drivers**| For cross-browser testing                                  |
 
----
+```
 
 ## 🖥️ **Tested Platform**
 
@@ -50,7 +50,7 @@ BuySellCycleTest/
 ├── logs/
 ├── allure-results/
 └── README.md
----
+```
 
 ---
 
