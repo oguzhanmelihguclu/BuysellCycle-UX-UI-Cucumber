@@ -21,7 +21,7 @@ This project is designed to test the **responsive web UI** of the [BuySellCycle]
 ## 🖥️ **Tested Platform**
 
 - **Website:** [BuySellCycle](https://buysellcycle.com/)
-- **Device:** Desktop & Responsive (Mobile Viewports)
+- **Device:** Windows 
 - **Browsers Tested:** Chrome, Edge
 - **Test Type:** Responsive Web UI Automation
 
