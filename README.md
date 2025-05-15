@@ -71,7 +71,7 @@ You can find detailed feature files in the `resources/features/` folder or revie
 
 ## 📊 **Reporting**
 
-All test execution results are generated in **Allure Report** format. After running tests:
+All test execution results are generated in **Allure Report** format. After running tests::
 
 ```bash
 mvn clean test
